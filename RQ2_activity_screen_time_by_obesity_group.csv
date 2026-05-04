@@ -1,0 +1,5 @@
+Obesity_Group,sample_size,avg_physical_activity_FAF,avg_screen_time_TUE,avg_obesity_score
+Underweight,267,1.274,0.848,0.0
+Normal,282,1.252,0.677,1.0
+Overweight,566,1.008,0.671,2.512
+Obese,972,0.875,0.603,4.972

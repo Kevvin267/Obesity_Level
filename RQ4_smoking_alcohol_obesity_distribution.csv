@@ -1,0 +1,7 @@
+risk_factor,group,Underweight,Normal,Overweight,Obese,sample_size
+SMOKE,no,13.02,13.17,27.31,46.5,2043
+SMOKE,yes,2.27,29.55,18.18,50.0,44
+CALC,Always,0.0,100.0,0.0,0.0,1
+CALC,Frequently,1.43,25.71,50.0,22.86,70
+CALC,Sometimes,10.8,11.52,25.58,52.1,1380
+CALC,no,18.4,16.35,27.99,37.26,636

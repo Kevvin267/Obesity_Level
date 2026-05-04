@@ -1,0 +1,5 @@
+Obesity_Group,sample_size,avg_vegetable_consumption_FCVC,avg_meals_per_day_NCP,high_calorie_food_yes_percent
+Underweight,267,2.475,2.943,81.273
+Normal,282,2.337,2.748,72.34
+Overweight,566,2.269,2.537,83.039
+Obese,972,2.52,2.717,98.045

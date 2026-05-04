@@ -1,0 +1,6 @@
+model,accuracy,macro_precision,macro_recall,macro_f1
+Gradient Boosting,0.97129,0.97044,0.97046,0.97041
+Random Forest,0.9378,0.94219,0.93555,0.93697
+Decision Tree,0.93301,0.93302,0.931,0.93131
+Logistic Regression,0.90431,0.90019,0.9025,0.90056
+KNN,0.80383,0.79178,0.7961,0.77607

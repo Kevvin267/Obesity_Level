@@ -1,0 +1,8 @@
+actual_class,Pred: Insufficient_Weight,Pred: Normal_Weight,Pred: Obesity_Type_I,Pred: Obesity_Type_II,Pred: Obesity_Type_III,Pred: Overweight_Level_I,Pred: Overweight_Level_II
+Actual: Insufficient_Weight,53,0,0,0,0,0,0
+Actual: Normal_Weight,0,54,0,0,0,1,2
+Actual: Obesity_Type_I,0,0,69,0,0,1,0
+Actual: Obesity_Type_II,0,0,0,60,0,0,0
+Actual: Obesity_Type_III,0,0,0,1,64,0,0
+Actual: Overweight_Level_I,0,2,0,0,0,51,2
+Actual: Overweight_Level_II,0,0,1,0,0,2,55

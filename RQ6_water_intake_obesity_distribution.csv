@@ -1,0 +1,4 @@
+Water_Intake_Level,Underweight,Normal,Overweight,Obese,sample_size,avg_CH2O,avg_obesity_score
+Low,16.74,16.74,22.38,44.14,478,1.128,2.906
+Medium,12.74,14.63,30.71,41.92,1107,2.016,2.971
+High,9.16,7.97,23.71,59.16,502,2.816,3.703
